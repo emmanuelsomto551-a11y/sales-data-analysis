@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+sales_5000.csv
+cleaned_sales.csv
